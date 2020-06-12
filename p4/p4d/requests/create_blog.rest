@@ -1,0 +1,11 @@
+### Authorization includes token and user information
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhdWR6a2llIiwiaWQiOiI1ZWUwZGIwOGVjNjhiOTUyZDdiMmU5MTMiLCJpYXQiOjE1OTE5MzI5MzZ9.xVC5Bq_5fcY88PqonbB2jCnXyUSXXjlfh7fTEOjFolY
+
+{
+    "title": "The adventuers of Dodskie Pangi",
+    "author": "Dodskie Pangit",
+    "url": "https://dodskie@pangit.com",
+    "likes": 1000000000000000000
+}
