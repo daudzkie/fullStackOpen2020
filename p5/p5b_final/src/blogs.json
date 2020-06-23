@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "The adventures of the most handsome guy in the world",
+        "author": "Dodskie Gwapo",
+        "url": "htpps://dodskiegwapo.com",
+        "likes": 9999999
+      },
+      {
+        "title": "The adventures of the most ugly guy in the world",
+        "author": "Dodskie Pangit",
+        "url": "htpps://dodskiepangit.com",
+        "likes": 1
+      }
+    ]
+  }

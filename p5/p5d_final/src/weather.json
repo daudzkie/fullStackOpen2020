@@ -1,0 +1,19 @@
+{ "weather":
+    [
+      {
+      "capital": "Paris",
+      "temp": 25,
+      "desc": "bagyo"
+      },
+      {
+      "capital": "Nicosia",
+      "temp": 100,
+      "desc": "init kaayo"
+      },
+      {
+      "capital": "Ottawa",
+      "temp": 5,
+      "desc": "perting tugnawa"
+      }
+    ]
+}
